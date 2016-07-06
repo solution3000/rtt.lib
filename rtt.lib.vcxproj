@@ -110,6 +110,42 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="D:\XMIG\rtt.lib\alloc.h" />
+    <ClInclude Include="D:\XMIG\rtt.lib\aniray.h" />
+    <ClInclude Include="D:\XMIG\rtt.lib\basicDefs.h" />
+    <ClInclude Include="D:\XMIG\rtt.lib\checkLicense.h" />
+    <ClInclude Include="D:\XMIG\rtt.lib\computeDerivsB.h" />
+    <ClInclude Include="D:\XMIG\rtt.lib\gridInterp.h" />
+    <ClInclude Include="D:\XMIG\rtt.lib\make3DArrays.h" />
+    <ClInclude Include="D:\XMIG\rtt.lib\parameters.h" />
+    <ClInclude Include="D:\XMIG\rtt.lib\ray.h" />
+    <ClInclude Include="D:\XMIG\rtt.lib\rayDataStructs.h" />
+    <ClInclude Include="D:\XMIG\rtt.lib\rayInternalDefs.h" />
+    <ClInclude Include="D:\XMIG\rtt.lib\rayPublic.h" />
+    <ClInclude Include="D:\XMIG\rtt.lib\rayPublicFORTRAN.h" />
+    <ClInclude Include="D:\XMIG\rtt.lib\rungeKutta.h" />
+    <ClInclude Include="D:\XMIG\rtt.lib\setGrid.h" />
+    <ClInclude Include="D:\XMIG\rtt.lib\triangle.h" />
+    <ClInclude Include="D:\XMIG\rtt.lib\triangleDataStructs.h" />
+    <ClInclude Include="D:\XMIG\rtt.lib\vectorDefs.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\XMIG\rtt.lib\C" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="D:\XMIG\rtt.lib\computeDerivsB.C" />
+    <ClCompile Include="D:\XMIG\rtt.lib\doRayStep.C" />
+    <ClCompile Include="D:\XMIG\rtt.lib\fillGrid.C" />
+    <ClCompile Include="D:\XMIG\rtt.lib\fillPoints.C" />
+    <ClCompile Include="D:\XMIG\rtt.lib\gridInterp.C" />
+    <ClCompile Include="D:\XMIG\rtt.lib\make3DArrays.C" />
+    <ClCompile Include="D:\XMIG\rtt.lib\makeRayNew2B.C" />
+    <ClCompile Include="D:\XMIG\rtt.lib\raytrc.cc" />
+    <ClCompile Include="D:\XMIG\rtt.lib\rungeKutta.C" />
+    <ClCompile Include="D:\XMIG\rtt.lib\setGrid.C" />
+    <ClCompile Include="D:\XMIG\rtt.lib\triangles.C" />
+    <ClCompile Include="D:\XMIG\rtt.lib\ttamp3.C" />
+    <ClCompile Include="D:\XMIG\rtt.lib\vel2.C" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

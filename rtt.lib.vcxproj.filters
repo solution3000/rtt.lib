@@ -14,4 +14,104 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\XMIG\rtt.lib\alloc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\XMIG\rtt.lib\aniray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\XMIG\rtt.lib\basicDefs.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\XMIG\rtt.lib\checkLicense.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\XMIG\rtt.lib\computeDerivsB.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\XMIG\rtt.lib\gridInterp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\XMIG\rtt.lib\make3DArrays.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\XMIG\rtt.lib\parameters.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\XMIG\rtt.lib\ray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\XMIG\rtt.lib\rayDataStructs.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\XMIG\rtt.lib\rayInternalDefs.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\XMIG\rtt.lib\rayPublic.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\XMIG\rtt.lib\rayPublicFORTRAN.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\XMIG\rtt.lib\rungeKutta.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\XMIG\rtt.lib\setGrid.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\XMIG\rtt.lib\triangle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\XMIG\rtt.lib\triangleDataStructs.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\XMIG\rtt.lib\vectorDefs.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\XMIG\rtt.lib\C" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="D:\XMIG\rtt.lib\computeDerivsB.C">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\XMIG\rtt.lib\doRayStep.C">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\XMIG\rtt.lib\fillGrid.C">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\XMIG\rtt.lib\fillPoints.C">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\XMIG\rtt.lib\gridInterp.C">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\XMIG\rtt.lib\make3DArrays.C">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\XMIG\rtt.lib\makeRayNew2B.C">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\XMIG\rtt.lib\raytrc.cc">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\XMIG\rtt.lib\rungeKutta.C">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\XMIG\rtt.lib\setGrid.C">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\XMIG\rtt.lib\triangles.C">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\XMIG\rtt.lib\ttamp3.C">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\XMIG\rtt.lib\vel2.C">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
